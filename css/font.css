@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'CoreSansE-35Light';
+    font-display: swap;
+    src: local('CoreSansE-35Light'),
+        url('../fonts/CoreSansE-35Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CoreSansE-35LightIt';
+    font-display: swap;
+    src: local('CoreSansE-35LightIt'),
+        url('../fonts/CoreSansE-35LightIt.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CoreSansE-45Regular';
+    font-display: swap;
+    src: local('CoreSansE-45Regular'),
+        url('../fonts/CoreSansE-45Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CoreSansE-55Medium';
+    font-display: swap;
+    src: local('CoreSansE-55Medium'),
+        url('../fonts/CoreSansE-55Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CoreSansE-65Bold';
+    font-display: swap;
+    src: local('CoreSansE-65Bold'),
+        url('../fonts/CoreSansE-65Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CoreSansE-85Heavy';
+    font-display: swap;
+    src: local('CoreSansE-85Heavy'),
+        url('../fonts/CoreSansE-85Heavy.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CoreSansE-95Black';
+    font-display: swap;
+    src: local('CoreSansE-95Black'),
+        url('../fonts/CoreSansE-95Black.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Besom 2';
+	src: url('Besom.eot');
+	src: local('Besom by Krisjanis Mezulis / RIT CREATIVE'), local('Besom'),
+		url('../fonts/Besom.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Besom.woff') format('woff'),
+		url('../fonts/Besom.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
+
